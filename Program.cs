@@ -36,5 +36,12 @@ internal class Program
         {
             Console.WriteLine($"You tried to be smart by entering another number than what was provided!");
         }
+
+        Console.WriteLine("All enum options: ");
+        
+        foreach (var currentItem in Enum.GetValues(typeof(Size)))
+        {
+            Console.WriteLine($"{currentItem.ToString()} = {(int)currentItem}");
+        }
     }
 }
