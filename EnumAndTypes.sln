@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumAndTypes", "EnumAndTypes.csproj", "{114CEFB0-FE7C-4CDA-B73B-3253CCD11EB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114CEFB0-FE7C-4CDA-B73B-3253CCD11EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114CEFB0-FE7C-4CDA-B73B-3253CCD11EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114CEFB0-FE7C-4CDA-B73B-3253CCD11EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114CEFB0-FE7C-4CDA-B73B-3253CCD11EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
